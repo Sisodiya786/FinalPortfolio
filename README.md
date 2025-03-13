@@ -1,4 +1,4 @@
-### **🚀 README for MyPortfolio (HTML & CSS-Based)**  
+### **🚀 README for FinalPortfolio (HTML & CSS-Based)**  
 
 
 ## **📌 MyPortfolio**  
@@ -26,7 +26,7 @@ A simple yet elegant **personal portfolio website** built using **HTML & CSS**, 
 
 ### **🚀 How to Run the Project Locally**  
 
-git clone https://github.com/Sisodiya786/MyPortfolio.git
+git clone https://github.com/Sisodiya786/FinalPortfolio.git
 cd MyPortfolio
 open index.html
 ```
